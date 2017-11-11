@@ -1,2 +1,2 @@
 # gitpractice
-git practice
+Creating this project for practicing git skills.
