@@ -7,4 +7,5 @@ package dao;
  */
 public interface BaseDao {
     void set();
+    void find();
 }
