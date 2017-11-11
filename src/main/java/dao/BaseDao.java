@@ -6,4 +6,5 @@ package dao;
  * @email 1215148017@qq.com
  */
 public interface BaseDao {
+    void set();
 }
