@@ -7,5 +7,9 @@ package dao;
  */
 public interface BaseDao {
     void get();
-    void delete();
+    void set();
+    //this is file merge
+    //from two different
+    //version
+
 }
