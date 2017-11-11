@@ -6,4 +6,7 @@ package hello;
  * @email 1215148017@qq.com
  */
 public class Person {
+    public static void main(String[] args) {
+        System.out.println("Person.main");
+    }
 }
