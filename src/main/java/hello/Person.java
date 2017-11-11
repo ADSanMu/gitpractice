@@ -1,5 +1,7 @@
 package hello;
 
+import java.util.Arrays;
+
 /**
  * @author Sanmu.
  * @date 11/11/2017
@@ -8,5 +10,6 @@ package hello;
 public class Person {
     public static void main(String[] args) {
         System.out.println("Person.main");
+        System.out.println("args = [" + Arrays.toString(args) + "]");
     }
 }
